@@ -89,7 +89,7 @@
               "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#4479d9",
+              "color": "#000000",
               "text-align": "left"
             },
             "@media (max-width: 991px)": {
